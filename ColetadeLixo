@@ -11,7 +11,7 @@
 html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 </style>
 </head>
-<body class="w3-light gray">
+<body class="w3-green">
 
 <!-- Top container -->
 <div class="w3-bar w3-top w3-black w3-large" style="z-index:4">
@@ -23,7 +23,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 <nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;" id="mySidebar"><br>
   <div class="w3-container w3-row">
     <div class="w3-col s4">
-      <img src="/w3images/avatar2.png" class="w3-circle w3-margin-right" style="width:46px">
+      <img src="C:\Users\Idalina\Desktop\Luizzz H8\IF\Periodo 3\Web\user_icon_004.jpg" class="w3-circle w3-margin-right" style="width:46px">
     </div>
     <div class="w3-col s8 w3-bar">
       <span>Bem vindo, <strong>Luiz</strong></span><br>
@@ -42,7 +42,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-eye fa-fw"></i>  Visualizações</a>
     <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bullseye fa-fw"></i>  Mapa</a>
     <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bell fa-fw"></i>  Noticia</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bank fa-fw"></i>  General</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bank fa-fw"></i>  Geral</a>
     <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-history fa-fw"></i>  Historico</a>
     <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-cog fa-fw"></i>  Configurações</a><br><br>
   </div>
@@ -56,7 +56,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 <div class="w3-main" style="margin-left:300px;margin-top:43px;">
 
   <!-- Header -->
-  <header class="w3-container" style="padding-top:22px">
+  <header class="w3-container" style="padding-top: 22px">
     <h5><b><i class="fa fa-dashboard"></i> Meu Painel</b></h5>
   </header>
 
@@ -82,13 +82,13 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       </div>
     </div>
     <div class="w3-quarter">
-      <div class="w3-container w3-teal w3-padding-16">
+      <div class="w3-container w3-yellow w3-padding-16">
         <div class="w3-left"><i class="fa fa-share-alt w3-xxxlarge"></i></div>
         <div class="w3-right">
-          <h3>23</h3>
+          <h4></h4>
         </div>
         <div class="w3-clear"></div>
-        <h4>Compartilhamentos</h4>
+        <h3>Enviar</h3>
       </div>
     </div>
   </div>
@@ -97,44 +97,44 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-third">
         <h5>Regiões</h5>
-        <img src="/w3images/region.jpg" style="width:100%" alt="Google Regional Map">
+        <img src="C:\Users\Idalina\Desktop\Luizzz H8\IF\Periodo 3\Web\Mapa.png" style="width:100%" alt="Google Regional Map">
       </div>
       <div class="w3-twothird">
         <h5>Feeds</h5>
         <table class="w3-table w3-striped w3-white">
           <tr>
             <td><i class="fa fa-user w3-text-blue w3-large"></i></td>
-            <td>New record, over 90 views.</td>
+            <td>Usuarios.</td>
             <td><i>10 mins</i></td>
           </tr>
           <tr>
             <td><i class="fa fa-bell w3-text-red w3-large"></i></td>
-            <td>Database error.</td>
+            <td>Tempo de atualização.</td>
             <td><i>15 mins</i></td>
           </tr>
           <tr>
             <td><i class="fa fa-users w3-text-yellow w3-large"></i></td>
-            <td>New record, over 40 users.</td>
+            <td>Grupos de recolhimento.</td>
             <td><i>17 mins</i></td>
           </tr>
           <tr>
             <td><i class="fa fa-comment w3-text-red w3-large"></i></td>
-            <td>New comments.</td>
+            <td>Comentarios.</td>
             <td><i>25 mins</i></td>
           </tr>
           <tr>
             <td><i class="fa fa-bookmark w3-text-blue w3-large"></i></td>
-            <td>Check transactions.</td>
+            <td>Salvar localização.</td>
             <td><i>28 mins</i></td>
           </tr>
           <tr>
             <td><i class="fa fa-laptop w3-text-red w3-large"></i></td>
-            <td>CPU overload.</td>
+            <td>aaaaaaaaa.</td>
             <td><i>35 mins</i></td>
           </tr>
           <tr>
             <td><i class="fa fa-share-alt w3-text-green w3-large"></i></td>
-            <td>New shares.</td>
+            <td>Compartilhar localização.</td>
             <td><i>39 mins</i></td>
           </tr>
         </table>
@@ -146,7 +146,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <h5>Porcetagem de lixo na area</h5>
     <p>Lixo organico</p>
     <div class="w3-grey">
-      <div class="w3-container w3-center w3-padding w3-green" style="width:25%">+25%</div>
+      <div class="w3-container w3-center w3-padding w3-yellow" style="width:25%">+25%</div>
     </div>
 
     <p>Lixo eletronico</p>
@@ -166,27 +166,27 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <table class="w3-table w3-striped w3-bordered w3-border w3-hoverable w3-white">
       <tr>
         <td>Araçuai</td>
-        <td>Rua ninnnjjbjhbhjbjh</td>
+        <td>Rua Judith</td>
       </tr>
       <tr>
         <td>Teofilo Otoni</td>
-        <td> Rua hbnibjjhjnkjdfd</td>
+        <td> Rua das flores</td>
       </tr>
       <tr>
         <td>Uberlandia</td>
-        <td>Rua dsdsfsdffddfggfg</td>
+        <td>Rua ipiranga</td>
       </tr>
       <tr>
         <td>Virgem da Lapa</td>
-        <td>Rua ndskjnjdsknfjdsd</td>
+        <td>Rua Fulgencio</td>
       </tr>
       <tr>
         <td>Betim</td>
-        <td>Rua jbnsihdbjjsdkbsj</td>
+        <td>Rua Eustaquio</td>
       </tr>
       <tr>
         <td>Pasmado</td>
-        <td>Rua jindfjnkngjkdfng</td>
+        <td>Rua dos Ipes</td>
       </tr>
     </table><br>
     <button class="w3-button w3-dark-grey">Mais regiões  <i class="fa fa-arrow-right"></i></button>
@@ -196,15 +196,15 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <h5>Interaçoes recentes</h5>
     <ul class="w3-ul w3-card-4 w3-white">
       <li class="w3-padding-16">
-        <img src="/w3images/avatar2.png" class="w3-left w3-circle w3-margin-right" style="width:35px">
+        <img src="C:\Users\Idalina\Desktop\Luizzz H8\IF\Periodo 3\Web\Captura de tela 2022-08-14 213018.png" class="w3-left w3-circle w3-margin-right" style="width:35px">
         <span class="w3-xlarge">Mike</span><br>
       </li>
       <li class="w3-padding-16">
-        <img src="/w3images/avatar5.png" class="w3-left w3-circle w3-margin-right" style="width:35px">
+        <img src="C:\Users\Idalina\Desktop\Luizzz H8\IF\Periodo 3\Web\Captura de tela 2022-08-14 213125.png" class="w3-left w3-circle w3-margin-right" style="width:35px">
         <span class="w3-xlarge">Jill</span><br>
       </li>
       <li class="w3-padding-16">
-        <img src="/w3images/avatar6.png" class="w3-left w3-circle w3-margin-right" style="width:35px">
+        <img src="C:\Users\Idalina\Desktop\Luizzz H8\IF\Periodo 3\Web\Captura de tela 2022-08-14 213047.png" class="w3-left w3-circle w3-margin-right" style="width:35px">
         <span class="w3-xlarge">Jane</span><br>
       </li>
     </ul>
@@ -216,29 +216,27 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <div class="w3-container w3-dark-grey w3-padding-32">
     <div class="w3-row">
       <div class="w3-container w3-third">
-        <h5 class="w3-bottombar w3-border-green">Demographic</h5>
+        <h5 class="w3-bottombar w3-border-green">Demografico</h5>
         <p>Região</p>
         <p>Cidade</p>
       </div>
       <div class="w3-container w3-third">
-        <h5 class="w3-bottombar w3-border-red">System</h5>
-        <p>pesquisa</p>
-        <p>OS</p>
-        <p>More</p>
+        <h5 class="w3-bottombar w3-border-red">Sistema</h5>
+        <p>Pesquisa</p>
+        <p>Sobre</p>
       </div>
       <div class="w3-container w3-third">
         <h5 class="w3-bottombar w3-border-orange">Target</h5>
-        <p>Users</p>
-        <p>Active</p>
+        <p>Usuarios</p>
         <p>Mapa</p>
-        <p>Interests</p>
+        <p>Interaçoes</p>
       </div>
     </div>
   </div>
 
   <!-- Footer -->
   <footer class="w3-container w3-padding-16 w3-light-grey">
-    <h4>FOOTER</h4>
+    <h4>Rodape</h4>
     <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
   </footer>
 
